@@ -1,5 +1,3 @@
-; inherits: curly
-
 (environment
   begin: (begin) @left
   end: (end) @right)

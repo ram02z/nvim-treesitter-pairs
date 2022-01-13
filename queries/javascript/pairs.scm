@@ -1,5 +1,3 @@
-; inherits: paren,curly,square,quote
-
 (template_string
   "`" @left
   "`" @right)

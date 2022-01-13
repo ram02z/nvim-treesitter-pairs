@@ -1,5 +1,3 @@
-; inherits: quote
-
 (start_tag
   "<" @left
   ">" @right)

@@ -1,5 +1,3 @@
-; inherits: square,paren,curly,quote
-
 (preproc_if
   "#if"    @left
   "#endif" @right)

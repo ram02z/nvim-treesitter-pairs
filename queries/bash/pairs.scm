@@ -1,5 +1,3 @@
-; inherits: paren,curly,square
-
 (_
   "[[" @left
   "]]" @right)

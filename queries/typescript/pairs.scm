@@ -1,1 +1,1 @@
-; inherits: javascript,angle
+; inherits: javascript
