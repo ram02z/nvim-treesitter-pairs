@@ -1,4 +1,4 @@
-; inherits: html,curly
+; inherits: html
 
 (if_statement
   (if_start_expr) @left

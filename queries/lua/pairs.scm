@@ -1,5 +1,3 @@
-; inherits: curly
-
 (for_in_statement
   "for" @left
   "end" @right)
