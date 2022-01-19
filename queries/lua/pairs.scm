@@ -1,7 +1,3 @@
-(for_in_statement
-  "for" @left
-  "end" @right)
-
 (for_statement
   "for" @left
   "end" @right)
@@ -11,5 +7,9 @@
   "end" @right)
 
 (function_definition
+  "function" @left
+  "end" @right)
+
+(function_declaration
   "function" @left
   "end" @right)
